@@ -1,2 +1,1 @@
-# code-journal
-Vince's Code Journal
+# Vince's Code Journal
