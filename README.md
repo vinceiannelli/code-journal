@@ -1,6 +1,4 @@
-# Vince's Code Journal
-
-CODE JOURNAL
+VINCE'S CODE JOURNAL
 ============
 
 September 23 2022
