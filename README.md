@@ -1,7 +1,7 @@
 VINCE'S CODE JOURNAL
 ====================
 
-![Image](lemon.svg "lemon")
+<img src="lemon.svg" alt="lemon" width="200"/>
 
 September 23 2022
 -----------------
