@@ -1,10 +1,17 @@
 VINCE'S CODE JOURNAL
 ====================
 
-<img src="lemon.svg" alt="lemon" width="200"/>
+<img src="lemon.svg" alt="lemon" width="100"/>
 
-September 23 2022
------------------
+
+## Oct 28 2022
+
+Updating this to see if I want to maintain...
+
+
+
+## September 23 2022
+
 
 We learned a bunch about GIT today:
 - created a page
